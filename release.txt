@@ -1,2 +1,1 @@
-2:1.1:https://github.com/dmxraj/PT/releases/download/untagged-7fc0fa11a106311f4271/com.pixeltech.TorrentSearchMate.release-1.1-b2.apk
-886:1.1.7
+2 1.1 https://github.com/dmxraj/PT/releases/download/untagged-7fc0fa11a106311f4271/com.pixeltech.TorrentSearchMate.release-1.1-b2.apk
