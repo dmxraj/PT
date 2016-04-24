@@ -1,1 +1,2 @@
 2 1.1 https://github.com/dmxraj/PT/raw/master/com.pixeltech.TorrentSearchMate.release-1.1-b2.apk
+28 3.5 https://github.com/dmxraj/PT/raw/master/apple.apk
