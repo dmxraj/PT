@@ -1,0 +1,2 @@
+PTSM 2 1.1 https://github.com/dmxraj/PT/raw/master/com.pixeltech.TorrentSearchMate.release-1.1-b2.apk
+TransDroid 28 3.5 https://github.com/erickok/transdroid-search/releases/download/v3.5/transdroid-search-3.5.apk
